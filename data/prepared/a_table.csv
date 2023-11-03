@@ -1,0 +1,89 @@
+"attribute_id","attribute_group","attribute_name","attribute_value","default_match_ifnull","included_in_shiny"
+1,"Histology","non-small cell lung cancer","Any",0,1
+2,"Histology","non-small cell lung cancer","Squamous NSCLC",0,1
+3,"Histology","non-small cell lung cancer","Non-squamous NSCLC",0,1
+5,"Demographics","Age",">=12",0,1
+6,"Demographics","Age",">=18",0,1
+7,"Demographics","Age",">=20",0,1
+9,"Vital","ECOG","0",1,1
+10,"Vital","ECOG","1",0,1
+11,"Vital","ECOG","2",0,1
+12,"Vital","ECOG","3",0,1
+29,"Stage","Overall Stage","I",0,1
+30,"Stage","Overall Stage","IA",0,1
+31,"Stage","Overall Stage","IB",0,1
+32,"Stage","Overall Stage","II",0,1
+33,"Stage","Overall Stage","IIA",0,1
+34,"Stage","Overall Stage","IIB",0,1
+35,"Stage","Overall Stage","III",0,1
+36,"Stage","Overall Stage","IIIA",0,1
+37,"Stage","Overall Stage","IIIB",0,1
+39,"Stage","Overall Stage","IV",0,1
+40,"Stage","Overall Stage","IVA",0,1
+41,"Stage","Overall Stage","IVB",0,1
+49,"Lab","AST","<=1.0x ULN",1,1
+50,"Lab","AST","<=1.5x ULN",1,1
+52,"Lab","AST","<=2.5x ULN",1,1
+53,"Lab","AST","<=3x ULN",1,1
+54,"Lab","AST","<=5x ULN",1,1
+56,"Lab","ALT","<=1.0x ULN",1,1
+57,"Lab","ALT","<=1.5x ULN",1,1
+59,"Lab","ALT","<=2.5x ULN",1,1
+60,"Lab","ALT","<=3x ULN",1,1
+61,"Lab","ALT","<=5x ULN",1,1
+63,"Lab","Total bilirubin","<=1.0x ULN",1,1
+64,"Lab","Total bilirubin","<=1.5x ULN",1,1
+65,"Lab","Total bilirubin","<=2.0x ULN",1,1
+66,"Lab","Total bilirubin","<=2.5x ULN",1,1
+67,"Lab","Total bilirubin","<=3x ULN",1,1
+72,"Lab","Serum Creatinine","<=1.0x ULN",1,1
+73,"Lab","Serum Creatinine","<=1.5x ULN",1,1
+74,"Lab","Serum Creatinine","<=2x ULN",1,1
+76,"Lab","CrCL",">=30",1,1
+77,"Lab","CrCL",">=40",1,1
+78,"Lab","CrCL",">=45",1,1
+79,"Lab","CrCL",">=50",1,1
+80,"Lab","CrCL",">=60",1,1
+82,"Lab","Platelets",">= 50,000",1,1
+83,"Lab","Platelets",">= 75,000",1,1
+84,"Lab","Platelets",">=100,000",1,1
+86,"Lab","ANC",">= 750",1,1
+87,"Lab","ANC",">=1000",1,1
+88,"Lab","ANC",">=1500",1,1
+90,"Lab","Hemoglobin",">= 8.0",1,1
+91,"Lab","Hemoglobin",">= 8.5",1,1
+92,"Lab","Hemoglobin",">= 9.0",1,1
+93,"Lab","Hemoglobin",">=10",1,1
+147,"Line of Therapy","Prior lines","0",1,1
+148,"Line of Therapy","Prior lines","1",0,1
+149,"Line of Therapy","Prior lines","2",0,1
+150,"Line of Therapy","Prior lines","3",0,1
+152,"Chemotherapy","Chemo","any",0,1
+153,"Chemotherapy","Chemo","platinum-based",0,1
+154,"Chemotherapy","Chemo","cisplatin-based",0,1
+155,"Chemotherapy","Chemo","carboplatin-based",0,1
+157,"Immuotherapy","Chemo","any",0,1
+159,"Immuotherapy","PD-1 ab","Pembrolizumab",0,1
+160,"Immuotherapy","PD-1 ab","Nivolumab",0,1
+164,"Immuotherapy","PD-L1/L2 ab","Durmalumab",0,1
+170,"Targeted therapy","Any","any",0,1
+171,"Targeted therapy","EGFR inhibitor","any",0,1
+172,"Targeted therapy","EGFR inhibitor","Afatinib",0,1
+173,"Targeted therapy","EGFR inhibitor","Gefitinib",0,1
+174,"Targeted therapy","EGFR inhibitor","Erlotinib",0,1
+175,"Targeted therapy","EGFR inhibitor","Osimertinib",0,1
+176,"Targeted therapy","EGFR inhibitor","Cetuximab",0,1
+177,"Targeted therapy","ALK inhibitor","any",0,1
+178,"Targeted therapy","ALK inhibitor","Crizotinib",0,1
+181,"Targeted therapy","c-MET inhibitor","any",0,1
+182,"Targeted therapy","RET inhibitor","any",0,1
+183,"Targeted therapy","RET inhibitor","Carbozantinib",0,1
+184,"Targeted therapy","PARP inhibitor","any",0,1
+194,"CNS Disease","Brain met","any",0,1
+196,"CNS Disease","Leptomeningeal","yes",0,1
+197,"CNS Disease","Carcinomatous meningitis","yes",0,1
+198,"CNS Disease","Spinal cord compression","yes",0,1
+200,"Disease","Immunodeficiency/HIV infection","yes",0,1
+201,"Disease","Other malignancy","yes",0,1
+202,"Disease","Cardiovascular disease","yes",0,1
+203,"Disease","Interstitial lung disease","yes",0,1
